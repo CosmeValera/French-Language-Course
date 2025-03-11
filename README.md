@@ -11,3 +11,20 @@
 **Section 3:** 🥖 [Vie Quotidienne](./Vie_Quotidienne/README.md) (Everyday Life)
 
 **Section 4:** 🏠 [Mon Environment](./Mon_Environment/README.md) (My Environment)
+
+
+<!--
+--- 
+| Adorer | Aimer | Détester |
+|--------|-------|----------|
+| J'ador<em class="e">e</em> |.|.|
+| Tu ador<em class="e">es</em>|.|.|
+| Il adore<em class="e">nt</em> |.|.|
+| Nous ador<em class="e">ons</em> |.|.|
+| Vous adorez<em class="e">ez</em> |.|.|
+| Ils adorent<em class="e">ent</em> |.|.|
+
+
+<style>
+.e {color: #f03c15;}
+</style> -->
