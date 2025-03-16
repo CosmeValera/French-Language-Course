@@ -90,3 +90,16 @@ Examples:
 - Je déteste faire le ménage
 - Je n'aime pas travailler
 - Je n'aime pas écouter la radio
+
+## Conjugation verb Dire
+- Je dis /di/
+- Tu dis /di/
+- Il/elle dit /di/
+- Nous disons /di.zɔ̃/
+- Vous dites /dit/ (⚠️ Irregular) 
+- Ils/elles disent /diz/
+
+Examples:
+- Qu'est-ce que tu dis?
+- Je dis que...
+- Qu'est-ce que vous en dites?
