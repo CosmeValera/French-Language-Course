@@ -103,3 +103,18 @@ Examples:
 - Qu'est-ce que tu dis?
 - Je dis que...
 - Qu'est-ce que vous en dites?
+
+Phrase de dictée (1: mine. 2: correction):
+- J'adore aller au cinema, et j'aime beacoup dîner au restaurant.
+- J'adore aller au cinéma, et j'aime beaucoup dîner au restaurant.
+- Michelle est grand, et gross, il a les cheveaux blanc, long et red, il a les yeux bleu.
+- Michel est grand, et gross, il a les cheveux bruns, longs et raides, il a les yeux bleus.
+- J'aime bien le sport, j'aime beaucoup le futbol, et j'aime joeur au tennis.
+- J'aime bien le sport, j'aime beaucoup le football, et j'aime joeur au tennis.
+- Anna est blonde. Elle est petite et mass, elle a les chevaux cours, et les yeux vertes.
+- Anna est blonde. Elle est petite et mince, elle a les cheveux courts, et les yeux vertes.
+- Michel déteste les filmes d'horreur. Et, il n'aime pas les series de science fiction.
+- Michel déteste les films d'horreur. Et, il n'aime pas les séries de science-fiction.
+- Qu'est-ce que vous dites? Je dis que j'aime le chocolat.
+- Qu'est-ce que vous dites? Je dis que j'aime le chocolat.
+
