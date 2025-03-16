@@ -118,3 +118,18 @@ Phrase de dictée (1: mine. 2: correction):
 - Qu'est-ce que vous dites? Je dis que j'aime le chocolat.
 - Qu'est-ce que vous dites? Je dis que j'aime le chocolat.
 
+## Compréhension orale: 👍👎
+Thibault:
+1. x | 👎 Il a 23 ans
+2. a) français 👍
+3. Vrai 👍
+4. Faux 👍
+5. Il aime regarder le match du football | 👍 Il aime regarder les matches à la télé et aller au cinéma
+
+Fabien:
+1. b) 30 ans | 👎 Il a 31 ans
+2. Vrai | 👎 Faux
+3. Vrai 👍
+4. Faux 👍
+5. Faux. Il dit qu'il déteste la solitude 👍
+
