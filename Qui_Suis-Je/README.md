@@ -133,3 +133,31 @@ Fabien:
 4. Faux 👍
 5. Faux. Il dit qu'il déteste la solitude 👍
 
+## La description physique (Physical description)
+1. Être + adjectif
+2. Avoir + nom
+
+**Être + adjectif**
+
+- Être + grand/grande: (big)
+- [EXAMPLE] Il est grand | Elle est grande
+- Être + petit/petite: (small)
+- [EXAMPLE] Il est petit | Elle est petite
+- Être + gross/grosse. (fat)
+- Être + dégoutant/dégoutante. (disgusting)
+- Être + moche/mochee. (ugly)
+- Être + mince/mince. (thin)
+- Être + brun/brune. (brown hair)
+- Être + blond/blonde. /blon/ /blond/ (yellow heair)
+- Être + roux/rousse. (red har)
+
+**Avoir + nom**
+
+- Avoir + les cheveux noirs/bruns/châtains/blonds/roux:
+- [EXAMPLE] Elle a les cheveux noirs.
+- Avoir + les cheveux courts/mi-longs/longs:
+- [EXAMPLE] Elle a les cheveux courts.
+- Avoir + les cheveux raides/ondulés/bouclés:
+- [EXAMPLE] Elle a les cheveux raides.
+- Avoir + les yeux marron/bleus/vertes:
+- [EXAMPLE] Elle a les yeux vertes.
