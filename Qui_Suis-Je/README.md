@@ -64,7 +64,7 @@ Examples:
 - Nous détestons la pluie. 👍
 - Vous aimez les frites? 👍
 
-**Translation exercise:**
+## Translation exercise:
 - I love to go to the cinema
 - J'adore aller au cinéma.
 - I love to eat at the restaurant.
@@ -104,7 +104,7 @@ Examples:
 - Je dis que...
 - Qu'est-ce que vous en dites?
 
-Phrase de dictée (1: mine. 2: correction):
+## Phrase de dictée (1: mine. 2: correction):
 - J'adore aller au cinema, et j'aime beacoup dîner au restaurant.
 - J'adore aller au cinéma, et j'aime beaucoup dîner au restaurant.
 - Michelle est grand, et gross, il a les cheveaux blanc, long et red, il a les yeux bleu.
@@ -161,3 +161,39 @@ Fabien:
 - [EXAMPLE] Elle a les cheveux raides.
 - Avoir + les yeux marron/bleus/vertes:
 - [EXAMPLE] Elle a les yeux vertes.
+
+## Translation exercise:
+- I am tall
+- Je suis grand(e)
+- She is short
+- Elle est petite.
+- Is he fat?
+- Il est gros?
+- I have dark hair
+- J'ai les cheveux noirs
+- She has brown hair
+- Elle a les cheveux bruns
+- He has short hair
+- Il a les cheveux courts
+- I have long hair
+- J'ai les cheveux longs
+- I have blue eyes
+- J'ai les yeux bleus
+- She has blue eyes?
+- Elle a les yeux bleus?
+- He has green eyes
+- Il a les yeux verts
+- I am tall and I have short hair
+- Je suis grand(e) et j'ai les cheveux courts
+- I am short and I have long hair
+- Je suis petit(e) et j'ai les cheveux longs
+- She is slim and she has blue eyes
+- Elle est mince et elle a les yeux bleus
+- He is blond and he has brown eyes
+- Il est blond et il a les yeux marron
+- I am tall, slim and I have short hair
+- Je suis grand(e), mince, et j'ai les cheveux courts
+- You have green eyes?
+- Tu as les yeux verts?
+- She has short hair?
+- Elle a les cheveux courts?
