@@ -197,3 +197,10 @@ Fabien:
 - Tu as les yeux verts?
 - She has short hair?
 - Elle a les cheveux courts?
+
+## Exercise comprénsion orale
+Part 1:
+- Homme-> grand, mince, les yeux bleus, les cheveux courts et raides. 👌
+- Femme-> grand, mince, les cheveux roux. 👌 
+
+part 2 ...
