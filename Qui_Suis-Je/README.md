@@ -198,9 +198,19 @@ Fabien:
 - She has short hair?
 - Elle a les cheveux courts?
 
-## Exercise comprénsion orale
+## Exercise comprénsion orale 👍👎
 Part 1:
-- Homme-> grand, mince, les yeux bleus, les cheveux courts et raides. 👌
-- Femme-> grand, mince, les cheveux roux. 👌 
+- Homme-> grand, mince, les yeux bleus, les cheveux courts et raides. 👍
+- Femme-> grand, mince, les cheveux roux. 👍
 
-part 2 ...
+Part 2: 
+- Stéphane, age 22 ans, petit, mince, les cheveux bruns, no, châtains. Courts.
+Raides. Yeux verts.Ne pas de lunettes, pas de barbe et pas de moustache. 
+
+Informations personnelles:
+- Age: 22 👍
+- Taille: petit 👍
+- Corpulence: mince 👍
+- Cheveux: châtains, courts, raides. 👍👍👍
+- Yeux: verts 👍
+- Signes particuliers: Non. 👍
