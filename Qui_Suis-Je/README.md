@@ -238,3 +238,29 @@ Exercise:
 - Jean est écrivain. Il écrive son troisième livre en ce moment 👎 écrit
 - J'écrive un mail aux clients 👎 J'écris
 - Stéphanie et moi écrivons une lettre de motivation 👍
+
+## Le Caractère (Personality)
+Être + adjectiv qualificatif
+- féminin des adjectifs
+- pluriel des adjectifs
+
+**Adjectifs qualificatifs: `féminin = +e` (≠ ou = pronunciation)**
+- intelligent (masculine) → /ɛ̃.tɛ.li.ʒɑ̃/ **(`≠`)**
+- intelligente (feminine) → /ɛ̃.tɛ.li.ʒɑ̃t/ **(`≠`)**
+- indépendant → /ɛ̃.de.pɑ̃.dɑ̃/ **(`≠`)**
+- indépendante → /ɛ̃.de.pɑ̃.dɑ̃t/ **(`≠`)**
+- cultivé → /kyl.ti.ve/ (`=`)
+- cultivée → /kyl.ti.ve/ (`=`)
+- décontracté → /de.kɔ̃.tʁak.te/ (`=`)
+- décontractée → /de.kɔ̃.tʁak.te/ (`=`)
+- timide / timide (`=`)
+- romantique / romantique (`=`)
+- optimiste / optimiste (`=`)
+- pesimiste / pesimiste (`=`)
+
+With the feminine, we pronounce the letter before the 'e'.
+
+---
+
+**Adjectifs qualificatifs: `féminin = irrégulier`**
+- .
