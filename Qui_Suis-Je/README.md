@@ -214,3 +214,27 @@ Informations personnelles:
 - Cheveux: châtains, courts, raides. 👍👍👍
 - Yeux: verts 👍
 - Signes particuliers: Non. 👍
+
+## Conjugaison: le verbe 'écrire'
+- J'écris
+- Tu écris
+- Il/elle écrit
+- Nous_écrivons **(Careful with the liaison: [z] sound)**
+- Vous_écrivez **([z])**
+- Ils/Elles_écrivent **([z])**
+
+Par exemple:
+- J'écris une lettre
+- Tu écris un mail
+- Il écrit la réponse
+- Nous écrivons une phrase
+- Vous écrivez un message
+- Ils écrive un mot
+
+Exercise: 
+- Vous écrivons des cartes postales en vacances? 👎 écrivez
+- Tu n'écrives pas un message à Michel? 👎 n'écris pas
+- Les étudiants écrivent les réponses de l'examen 👍
+- Jean est écrivain. Il écrive son troisième livre en ce moment 👎 écrit
+- J'écrive un mail aux clients 👎 J'écris
+- Stéphanie et moi écrivons une lettre de motivation 👍
