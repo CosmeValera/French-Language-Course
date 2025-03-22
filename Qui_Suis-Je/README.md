@@ -251,7 +251,7 @@ Exercise:
 - indépendante → /ɛ̃.de.pɑ̃.dɑ̃t/ **(`≠`)**
 - cultivé → /kyl.ti.ve/ (`=`)
 - cultivée → /kyl.ti.ve/ (`=`)
-- décontracté → /de.kɔ̃.tʁak.te/ (`=`)
+- décontracté → /de.kɔ̃.tʁak.te/ (`=`) (Relaxed)
 - décontractée → /de.kɔ̃.tʁak.te/ (`=`)
 - timide / timide (`=`)
 - romantique / romantique (`=`)
@@ -291,3 +291,30 @@ Examples:
 - Sandra est décontractée et romantique. Elle est aussi active et très sportive
 - Georges et Samuel sont indépendants et actifs. Ils sont aussi sérieux et gentils.
 - Sandra et Marie sont optimistes et positives. Elles sont aussi joyeuses et gentilles.
+
+## Le Caractère (2): les adjectifs qualificatifs
+**(`≠`)**
+- patient / patiente 
+- impatient / impatiente
+- amusant / amusante
+- charmant / charmante
+- arrogant / arrogante
+- intéressant / intéressante
+- paresseux / paresseuse
+- corageux / corageuse
+- ennuyeux / enuuyeuse
+- peureux / peureus
+- têtu / têtue (stubborn)
+- franc / franche
+- bavard / bavarde (talkative)
+- jaloux / jalouse
+
+**(`=`)**
+- spontané / spontanée
+- agréable / agréable
+- sympathique / sympathique
+- antipathique / antipathique
+- sincère / sincère
+- triste / triste
+- sensible / sensible
+- égoïste / égoïste
