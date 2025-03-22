@@ -263,4 +263,31 @@ With the feminine, we pronounce the letter before the 'e'.
 ---
 
 **Adjectifs qualificatifs: `féminin = irrégulier`**
-- .
+- sporttif / sportive
+- positif / positive
+- néfatif / négative
+- actif / active
+- généreux / généreuse
+- sérieux / sérieuse
+- joyeux / joyeuse
+- curieux / curieuse
+
+Cas particuliers:
+- doux / douce
+- gentil / gentille
+
+**Adjectifs qualificatifs: `pluriel = + x`**
+- intelligent / intelligents (`=`)
+- intelligente / intelligentes (`=`)
+- négatif / négatifs (`=`)
+- cultivé / cultivés (`=`)
+
+Careful, the adjectives that end with `x`, in the plural don't change the `x` for `s`.
+- généreux / généreux (`=`)
+- doux / doux (`=`)
+
+Examples:
+- Georges est intelligent et cultivé. Mais il est aussi timide et pessimiste
+- Sandra est décontractée et romantique. Elle est aussi active et très sportive
+- Georges et Samuel sont indépendants et actifs. Ils sont aussi sérieux et gentils.
+- Sandra et Marie sont optimistes et positives. Elles sont aussi joyeuses et gentilles.
