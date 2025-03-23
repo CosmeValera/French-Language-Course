@@ -495,3 +495,20 @@ It's usually used with an infinitive
 - ne savent pas 👍
 - Hugo est fantastique, il _________ tout faire ! (+)
 - sait 👍
+
+## Le famille (1)
+- David est marié à Anna
+- Ils ont deux enfants
+- Une fille: Anaïs
+- Un fils: Julien
+- David est le père d'Anäis et Julien.
+- Anna est le mère d'Anäis et Julien.
+- David et Anna sont les parents de Julien et Anaïs.
+- Jean et Ely sont les parents de David.
+- Jean est le grand-père de Julien et Anaïs.
+- Ely est la grand-mère de Julien et Anaïs
+- Jean et Ely sont les grands-parents de Julien et Anaïs
+- Les grands-parents: Le grand-père, la grand-mère
+- Les parents: Le père, la mère
+- Les enfants: Le fils, la fille
+
