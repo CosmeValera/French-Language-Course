@@ -537,3 +537,33 @@ This **pattern** is similar to other French noun pairs like **"an/année," "mati
 - Les parents: Le père, la mère
 - Les enfants: Le fils, la fille
 
+## Le famille (2)
+- David est le mari d'Anna
+- Anna est la femme de David
+- Ely est la belle-mère d'Anna
+- Jean est le beau-père d'Anna
+- Jean et Ely sont les beaux-parents d'Anna
+- Anaïs est la soeur de Julien
+- Julien est le frère de Anaïs
+
+## Le famille (3)
+- Chantal est la mère d'Anna
+- David est le gendre de Chantal (Son-in-law)
+- Anna est la belle-fille de Jean et Ely (daughter-in-law)
+- Julien est le petit-fils de Jean, Ely et Chantal
+- Anaïs est la petite-fille de Jean, Ely et Chantal
+- Julien et Anaïs sont les petits-enfants de Jean, Ely et Chantal. 
+
+## La famille (4)
+- Marc est le frére d'Anna
+- Veronique est la femme de Marc
+- Marc est l'oncle de Julien et Anaïs
+- Véronique est la tante de Julien et Anaïs
+- Julien est le neveu de Marc et Véronique
+- Anaïs est la nièce de Marc et Véronique
+- Marcc et Véronique ont deux enfants: Sélène et Bastien.
+- S est la cousine de J et A
+- B est le cousin de J et A
+- S et B sont les cousins de J et A
+- David est le beau-frère de Marc
+- Anna est la belle-soeur de Véronique
