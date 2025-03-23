@@ -424,3 +424,15 @@ Activités professionelles
   - Chanter une chanson
 - Un policier assure la sécurité
   - Assurer la sécurité
+
+## Professions exercise 👍👎
+- mecanicien 👍 mécanicien
+- institutrice 👍
+- homme d'affaires 👍
+- pompier 👎 policier
+- musicienne 👍
+- servant 👎 serveur
+- actrice 👍
+- architecte 👍
+- chanteuse 👍
+- photographeur 👎 photographe
