@@ -332,34 +332,55 @@ Les professions
 - noms des professions
 - féminin des professions
 
-Quelques professions:
-- Un musicien *(/œ̃ my.zi.sjɛ̃/)* 
-- Une musicienne *(/yn my.zi.sjɛn/)*
-- Un mécanicien *(/me.ka.ni.sjɛ̃/)* 
-- Une mécanicienne *(/me.ka.ni.sjɛn/)*
-- Un boulanger / une voulangère
-- Un infirmier / une infirmière
-- Un vendeur / une vendeuse
-- Un serveur / une serveuse
-- Un acteur / une actrice
-- Un instituteur / une institutrice
-- Un architecte / une architecte
-- Un photographe / une photographe
-- Un boucher
-- Un chef (cuisiner)
-- Un homme d'affaires / une femme d'affaires
-- Un pompier **[No féminin]**
-- Un chanteur / une chanteuse
-- Un policier / une (femme) policier
+### Quelques professions:
+- Un musicien *(/œ̃ my.zi.sjɛ̃/)* - *un joueur d'instrument de musique ou compositeur*
+- Une musicienne *(/yn my.zi.sjɛn/)* - *une joueuse d'instrument de musique ou compositrice*
+- Un mécanicien *(/me.ka.ni.sjɛ̃/)* - *une personne qui répare les véhicules*
+- Une mécanicienne *(/me.ka.ni.sjɛn/)* - *une personne qui répare les véhicules*
+- Un boulanger *(/bu.lɑ̃.ʒe/)* - *une personne qui fait du pain et des pâtisseries*
+- Une boulangère *(/bu.lɑ̃.ʒɛʁ/)* - *une personne qui fait du pain et des pâtisseries*
+- Un infirmier *(/ɛ̃.fiʁ.mje/)* - *une personne qui soigne les malades*
+- Une infirmière *(/ɛ̃.fiʁ.mjɛʁ/)* - *une personne qui soigne les malades*
+- Un vendeur *(/vɑ̃.dœʁ/)* - *une personne qui vend des produits*
+- Une vendeuse *(/vɑ̃.døz/)* - *une personne qui vend des produits*
+- Un serveur *(/sɛʁ.vœʁ/)* - *une personne qui sert dans un restaurant*
+- Une serveuse *(/sɛʁ.vøz/)* - *une personne qui sert dans un restaurant*
+- Un acteur *(/ak.tœʁ/)* - *une personne qui joue des rôles au théâtre ou au cinéma*
+- Une actrice *(/ak.tʁis/)* - *une personne qui joue des rôles au théâtre ou au cinéma*
+- Un instituteur *(/ɛ̃s.ti.ty.tœʁ/)* - *un enseignant à l'école primaire*
+- Une institutrice *(/ɛ̃s.ti.ty.tʁis/)* - *une enseignante à l'école primaire*
+- Un architecte *(/aʁ.ʃi.tɛkt/)* - *une personne qui conçoit des bâtiments*
+- Une architecte *(/aʁ.ʃi.tɛkt/)* - *une personne qui conçoit des bâtiments*
+- Un photographe *(/fo.to.ɡʁaf/)* - *une personne qui prend des photos*
+- Une photographe *(/fo.to.ɡʁaf/)* - *une personne qui prend des photos*
+- Un boucher *(/bu.ʃe/)* - *une personne qui prépare et vend de la viande*
+- Un chef (cuisinier) *(/ʃɛf/)* - *une personne qui dirige une cuisine*
+- Un homme d'affaires *(/ɔm da.fɛʁ/)* - *un homme qui travaille dans le commerce ou la finance*
+- Une femme d'affaires *(/fam da.fɛʁ/)* - *une femme qui travaille dans le commerce ou la finance*
+- Un pompier *(/pɔ̃.pje/)* - *une personne qui combat les incendies* **[Pas de féminin]**
+- Un chanteur *(/ʃɑ̃.tœʁ/)* - *une personne qui chante professionnellement*
+- Une chanteuse *(/ʃɑ̃.tøz/)* - *une personne qui chante professionnellement*
+- Un policier *(/po.li.sje/)* - *une personne qui fait respecter la loi*
+- Une (femme) policier *(/po.li.sje/)* or Une policière *(/po.li.sjɛʁ/)* - *une personne qui fait respecter la loi*
 
-Généralement:
+### Généralement:
 - ien *(/jɛ̃/)* -> ienne *(/jɛn/)*
   - musicien/musicienne
-- er -> ère
+  - mécanicien/mécanicienne
+  - pharmacien/pharmacienne
+- er *(/e/)* -> ère *(/ɛʁ/)*
   - boulanger/boulangère
-- eur -> euse
-  - vendeur/euse
-- teur -> trice
+  - pâtissier/pâtissière
+  - infirmier/infirmière
+- eur *(/œʁ/)* -> euse *(/øz/)*
+  - vendeur/vendeuse
+  - serveur/serveuse
+  - chanteur/chanteuse
+- teur *(/tœʁ/)* -> trice *(/tʁis/)*
   - acteur/actrice
-- e -> e
+  - instituteur/institutrice
+  - directeur/directrice
+- e *(/ə/)* -> e *(/ə/)* (reste identique)
   - architecte/architecte
+  - photographe/photographe
+  - journaliste/journaliste
