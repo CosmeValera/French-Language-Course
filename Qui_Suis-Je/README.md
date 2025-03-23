@@ -591,3 +591,25 @@ Par exemple:
 - apprenent 👎 apprennent
 - apprend 👍
 - apprendez 👎 apprenez
+
+## Les adjectifs possesifs (1)
+**Je**
+- Mon (+ nom masculine) père
+- Ma (+ nom féminin) mère
+- Mes (+ nom pluriel) parents
+**Tu**
+- Ton (+ nom masculine) fils
+- Ta (+ nom féminin) fille
+- Tes (+ nom pluriel) enfants
+**Il/elle**
+- Son (+ nom masculine) grand-père
+- Aa (+ nom féminin) grand-mère
+- Ses (+ nom pluriel) grands-parents
+
+> [!Warning]
+> "Ma", "ta", "sa" cannot be followed by "A", "E", "I", "O", "U", "H".
+> 
+> In that case it changes to "Mon", "Ton", "Son".
+> - Mon actrice préférée
+> - Ton amie
+> - Son école
