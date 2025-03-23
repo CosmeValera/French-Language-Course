@@ -327,3 +327,39 @@ Examples:
 - sensible / sensible
 - égoïste / égoïste
 
+## Les professions (1)
+Les professions
+- noms des professions
+- féminin des professions
+
+Quelques professions:
+- Un musicien *(/œ̃ my.zi.sjɛ̃/)* 
+- Une musicienne *(/yn my.zi.sjɛn/)*
+- Un mécanicien *(/me.ka.ni.sjɛ̃/)* 
+- Une mécanicienne *(/me.ka.ni.sjɛn/)*
+- Un boulanger / une voulangère
+- Un infirmier / une infirmière
+- Un vendeur / une vendeuse
+- Un serveur / une serveuse
+- Un acteur / une actrice
+- Un instituteur / une institutrice
+- Un architecte / une architecte
+- Un photographe / une photographe
+- Un boucher
+- Un chef (cuisiner)
+- Un homme d'affaires / une femme d'affaires
+- Un pompier **[No féminin]**
+- Un chanteur / une chanteuse
+- Un policier / une (femme) policier
+
+Généralement:
+- ien *(/jɛ̃/)* -> ienne *(/jɛn/)*
+  - musicien/musicienne
+- er -> ère
+  - boulanger/boulangère
+- eur -> euse
+  - vendeur/euse
+- teur -> trice
+  - acteur/actrice
+- e -> e
+  - architecte/architecte
