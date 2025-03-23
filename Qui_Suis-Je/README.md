@@ -583,3 +583,11 @@ Par exemple:
 - Apprendre + à + verbe infinitif
   - J'apprends à conduire
 <!-- 👍👎çÇ -->
+
+## Exercise Apprendre:
+- Nous apprenons 👍
+- j'apprends 👍
+- tu n'apprends pas 👍
+- apprenent 👎 apprennent
+- apprend 👍
+- apprendez 👎 apprenez
