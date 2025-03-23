@@ -567,3 +567,19 @@ This **pattern** is similar to other French noun pairs like **"an/année," "mati
 - S et B sont les cousins de J et A
 - David est le beau-frère de Marc
 - Anna est la belle-soeur de Véronique
+
+## Conjugaison: Le verbe "apprendre"
+- J'apprends
+- Tu apprends
+- Il/ell apprend
+- Nous apprenons
+- Vous apprenez
+- Ils/elles apprennent
+
+Par exemple: 
+- Apprendre + le/l' + adjectif nationalité
+  - J'apprends le français
+  - J'apprends l'allemand
+- Apprendre + à + verbe infinitif
+  - J'apprends à conduire
+<!-- 👍👎çÇ -->
