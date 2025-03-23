@@ -239,6 +239,14 @@ Exercise:
 - J'écrive un mail aux clients 👎 J'écris
 - Stéphanie et moi écrivons une lettre de motivation 👍
 
+Exercise 2nt attempt: 👎👍
+- Vous écrivez des cartes postales en vacances? 👍
+- Tu n'écris pas un message à Michel? 👍
+- Les étudiants écrivent les réponses de l'examen 👍
+- Jean est écrivain. Il écrit son troisième livre en ce moment 👍
+- J'écris un mail aux clients 👍
+- Stéphanie et moi écrivons une lettre de motivation 👍
+
 ## Le Caractère (Personality)
 Être + adjectiv qualificatif
 - féminin des adjectifs
@@ -263,18 +271,18 @@ With the feminine, we pronounce the letter before the 'e'.
 ---
 
 **Adjectifs qualificatifs: `féminin = irrégulier`**
-- sporttif / sportive
-- positif / positive
-- néfatif / négative
-- actif / active
-- généreux / généreuse
-- sérieux / sérieuse
-- joyeux / joyeuse
-- curieux / curieuse
+- sporttif / sportive (`≠`)
+- positif / positive (`≠`)
+- néfatif / négative (`≠`)
+- actif / active (`≠`)
+- généreux / généreuse (`≠`)
+- sérieux / sérieuse (`≠`)
+- joyeux / joyeuse (`≠`)
+- curieux / curieuse (`≠`)
 
 Cas particuliers:
-- doux / douce
-- gentil / gentille
+- doux / douce (`≠`)
+- gentil / gentille (`≠`)
 
 **Adjectifs qualificatifs: `pluriel = + x`**
 - intelligent / intelligents (`=`)
@@ -302,7 +310,7 @@ Examples:
 - intéressant / intéressante
 - paresseux / paresseuse
 - corageux / corageuse
-- ennuyeux / enuuyeuse
+- ennuyeux / ennuyeuse
 - peureux / peureus
 - têtu / têtue (stubborn)
 - franc / franche
@@ -318,3 +326,4 @@ Examples:
 - triste / triste
 - sensible / sensible
 - égoïste / égoïste
+
