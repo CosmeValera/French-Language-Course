@@ -594,17 +594,19 @@ Par exemple:
 
 ## Les adjectifs possesifs (1)
 **Je**
-- Mon (+ nom masculine) père
-- Ma (+ nom féminin) mère
-- Mes (+ nom pluriel) parents
+- Mon *(+ nom masculine)* père
+- Ma *(+ nom féminin)* mère
+- Mes *(+ nom pluriel)* parents
+
 **Tu**
-- Ton (+ nom masculine) fils
-- Ta (+ nom féminin) fille
-- Tes (+ nom pluriel) enfants
+- Ton *(+ nom masculine)* fils
+- Ta *(+ nom féminin)* fille
+- Tes *(+ nom pluriel)* enfants
+
 **Il/elle**
-- Son (+ nom masculine) grand-père
-- Aa (+ nom féminin) grand-mère
-- Ses (+ nom pluriel) grands-parents
+- Son *(+ nom masculine)* grand-père
+- Sa *(+ nom féminin)* grand-mère
+- Ses *(+ nom pluriel)* grands-parents
 
 > [!Warning]
 > "Ma", "ta", "sa" cannot be followed by "A", "E", "I", "O", "U", "H".
@@ -613,3 +615,19 @@ Par exemple:
 > - Mon actrice préférée
 > - Ton amie
 > - Son école
+
+## Les adjectifs possesifs (2)
+**Nous**
+- Notre *(+ nom masculine)* oncle
+- Notre *(+ nom féminin)* tante
+- Nos *(+ nom pluriel)* cousins
+
+**Vous**
+- Votre *(+ nom masculine)* neveu
+- Votre *(+ nom féminin)* nièce
+- Vos *(+ nom pluriel)* frères
+
+**Ils/elles**
+- Leur *(+ nom masculine)* frère
+- Leur *(+ nom féminin)* soeur
+- Leurs *(+ nom pluriel)* petits-enfants
