@@ -384,3 +384,43 @@ Les professions
   - architecte/architecte
   - photographe/photographe
   - journaliste/journaliste
+
+## Les professions (2)
+
+Activités professionelles
+- verbes
+- noms
+
+### Les activités professionnelles: 
+- Un musicien joue de la musique
+  - Joueur de la musique
+- un mécanicien répare des machines
+  - Réparer des machines
+- Un boulanger fait du pain
+  - Faire du pain
+- Une infirmière aide les malades
+  - Aider les malades
+- Un vendeur vend des articles
+  - Vendre des articles
+- Un serveur s'occupe des clients
+  - S'occuper des clients
+- Un acteur joue dans un film
+  - Jouer dans un film
+- Un instituteur enseigne dans une école
+  - Enseigner dans une école
+- Un architecte dessine des plans
+  - Dessiner des plans
+- Un photographe prend des photos
+  - Prendre des photos
+- Un boucher vend de la viande
+  - Vendre de la viande
+- Un chef cuisine des plats
+  - Cuisiner des plats
+- Un homme d'affaires crée des entreprises
+  - Créer des entreprises
+- Un pompier protège les gens
+  - Protèger les gens
+- Une chanteur chante une chanson
+  - Chanter une chanson
+- Un policier assure la sécurité
+  - Assurer la sécurité
