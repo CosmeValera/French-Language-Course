@@ -436,3 +436,15 @@ Activités professionelles
 - architecte 👍
 - chanteuse 👍
 - photographeur 👎 photographe
+
+## Phrases de dictée (2) 👍👎çÇ
+- Jean est timide et romantique. Mais, il est aussi intelligent, et cultivé 👍
+- Marie est boulanger. Elle fait du pain. Et elle vends du pain. 👎
+- Marie est boulangère. Elle fait du pain. Et elle vend du pain. 👍
+- Lucie est franche et têtue. Mais elle est aussi sympathique et spontanée. 👍
+- Marc est instituteur dans un école. Il enseigné le français et l'anglais 👎
+- Marc est instituteur dans une école. Il enseigne le français et l'anglais 👍
+- Anna est serveuse dans un réstaurant. Elle s'occupe de client. Elle est passionante et agréable 👎
+- Anna est serveuse dans un restaurant. Elle s'occupe des clients. Elle est patiente et agréable 👍
+- Serge est un homme d'affaires. Il crée et vend les enterprises. il est serieux et franc. 👎
+- Serge est un homme d'affaires. Il crée et vend des enterprises. Il est sérieux et franc. 👍
