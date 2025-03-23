@@ -631,3 +631,25 @@ Par exemple:
 - Leur *(+ nom masculine)* frère
 - Leur *(+ nom féminin)* soeur
 - Leurs *(+ nom pluriel)* petits-enfants
+
+## Les adjectifs possesifs Exercices
+**1**
+- J'ai un frère -> mon frère
+- Marc a deux enfants -> ses enfants
+- Notre soeur
+- Tes frères
+- Ma nièce
+- Leur gendre
+- Son mari
+- Votre frère
+- Sa fille
+
+**2**
+- Mes frères
+- Ta cousine
+- Ses enfants
+- Vos cousines
+- Leur fille
+- Leurs enfants
+- Notre neveu
+- Mon beau-frère
