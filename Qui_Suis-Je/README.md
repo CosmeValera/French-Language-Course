@@ -467,3 +467,31 @@ Activités professionelles
   - **Ill est + adjectif**
     - Il est grand et blond
     - C'est Jérôme. Il est journaliste. Il est sympathique
+
+## Conjugaison: le verbe 'Savoir'
+- Je sais
+- Tu sais
+- Il/Elle sait
+- Nous savons
+- Vous savez
+- Ils/Elles savent
+
+It's usually used with an infinitive
+- Je sais nager
+- Tu sais parler italien
+- Ils savent monter à cheval
+- Nous savons cuisiner
+
+## Exercise 'Savoir' 👍👎çÇ
+- Vous _________ parler portugais ? (+)
+- savez 👍
+- Comment s'appelle le frère de Thomas ? - Je ____________! (-)
+- ne sais pas 👍
+- Anna ______ très bien cuisiner. (+) Elle fait des gâteaux au chocolat excellents !
+- sait 👍
+- Michel n'est pas sportif. Il _________ nager. (-)
+- ne sait pas👍
+- En général, les français _____________ parler anglais. (-)
+- ne savent pas 👍
+- Hugo est fantastique, il _________ tout faire ! (+)
+- sait 👍
