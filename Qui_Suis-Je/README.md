@@ -448,3 +448,22 @@ Activités professionelles
 - Anna est serveuse dans un restaurant. Elle s'occupe des clients. Elle est patiente et agréable 👍
 - Serge est un homme d'affaires. Il crée et vend les enterprises. il est serieux et franc. 👎
 - Serge est un homme d'affaires. Il crée et vend des enterprises. Il est sérieux et franc. 👍
+
+## C'est / Il est
+**C'est**
+- Identifier une personne (prénom)
+  - Sur la photo, à droite c'est Charlotte, et à gauche c'est Fanny
+- Présenter une personne / identifier un objet
+  - **C'est + article + nom**
+    - Maxime, c'est le fils de Julien
+    - Voilà Benoît, c'est le professeur!
+    - Qu'est-ce que c'est? - C'est un couteau suisse (Swiss knife)
+
+**Il est**
+- Donner une information
+  - **Il est + profession**
+    - Il est photographe
+    - C'est Benoît, il est professeur
+  - **Ill est + adjectif**
+    - Il est grand et blond
+    - C'est Jérôme. Il est journaliste. Il est sympathique
