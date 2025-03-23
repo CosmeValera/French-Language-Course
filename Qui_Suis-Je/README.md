@@ -496,6 +496,31 @@ It's usually used with an infinitive
 - Hugo est fantastique, il _________ tout faire ! (+)
 - sait 👍
 
+## Jour vs Journée
+**Jour** */ʒuʁ/* (the day itself, the date):
+- "Quel jour sommes-nous aujourd'hui?" (What day is it today?)
+- "Le jour de mon examen" (The day of my exam)
+- "Trois jours par semaine" (Three days per week)
+
+**Journée** */ʒuʁ.ne/* (the content/experience of the day):
+- "J'ai passé une belle journée avec mes amis" (I spent a nice day with my friends)
+- "Comment s'est passée ta journée?" (How was your day?)
+- "Durant toute la journée, il a plu" (It rained throughout the whole day)
+
+---
+This **pattern** is similar to other French noun pairs like **"an/année," "matin/matinée," and "soir/soirée,"** where the feminine form with "-ée" emphasizes duration and content rather than just the time unit itself.
+
+- soir → */swaʁ/* | soirée → */swa.ʁe/*
+  - "Je rentre à 6h du soir" (I come home at 6 in the evening)
+  - "Une soirée entre amis" (An evening with friends)
+- matin → */ma.tɛ̃/* |  matinée → */ma.ti.ne/*
+  - "Je me lève à 7h du matin" (I get up at 7 in the morning)
+  - "Une matinée pluvieuse" (A rainy morning)
+- an → */ɑ̃/* | année → */a.ne/*
+  - "J'ai 30 ans" (I am 30 years old)
+  - "J'ai passé une bonne année en France" (I had a good year in France)
+
+
 ## Le famille (1)
 - David est marié à Anna
 - Ils ont deux enfants
