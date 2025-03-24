@@ -653,4 +653,30 @@ Par exemple:
 - Notre neveu
 - Mon beau-frère
 
+## Exercice de traduction
+- Mon frére est un architect 👎
+- Mon frère est architecte 👍
+- Ma soeur est infirmiere 👎
+- Ma soeur est infirmière 👍
+- Ton frère est mechanic? 👎
+- Ton frère est mécanicien? 👍
+- Ta souer est serveuse? 👍
+- Nos enfants sont étudients 👎
+- Nos enfants sont étudiants 👍
+- C'est Marc. Il est boulanger 👍
+- C'est Anna. Elle est assistant de vents 👎
+- C'est Anna. Elle est vendeuse 👍
+- C'est Michel. Il est chef cuisiner 👍
+- C'est Laura. Elle est photographe 👍
+- C'est Hugo. Il est mon frère 👎
+- C'est Hugo. C'est mon frère 👍
+- C'est Anna. C'est ma soeur 👍
+- C'est Marc. C'est mon cousin. Il est viander 👎
+- C'est Marc. C'est mon cousin. Il est boucher 👍
+- C'est Laura. C'est ma cousine. Elle est infirmière. 👍
+- Marc est mon cousin. Il est divertif👎
+- Marc est mon cousin. Il est amusant👍
+- Laura est ma cousine. Elle est charmante 👍
+
 <!-- 👍👎çÇ -->
+## Les pronoms toniques
