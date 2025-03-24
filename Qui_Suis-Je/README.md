@@ -527,7 +527,7 @@ This **pattern** is similar to other French noun pairs like **"an/année," "mati
 - Une fille: Anaïs
 - Un fils: Julien
 - David est le père d'Anäis et Julien.
-- Anna est le mère d'Anäis et Julien.
+- Anna est la mère d'Anäis et Julien.
 - David et Anna sont les parents de Julien et Anaïs.
 - Jean et Ely sont les parents de David.
 - Jean est le grand-père de Julien et Anaïs.
@@ -561,7 +561,7 @@ This **pattern** is similar to other French noun pairs like **"an/année," "mati
 - Véronique est la tante de Julien et Anaïs
 - Julien est le neveu de Marc et Véronique
 - Anaïs est la nièce de Marc et Véronique
-- Marcc et Véronique ont deux enfants: Sélène et Bastien.
+- Marc et Véronique ont deux enfants: Sélène et Bastien.
 - S est la cousine de J et A
 - B est le cousin de J et A
 - S et B sont les cousins de J et A
@@ -582,7 +582,6 @@ Par exemple:
   - J'apprends l'allemand
 - Apprendre + à + verbe infinitif
   - J'apprends à conduire
-<!-- 👍👎çÇ -->
 
 ## Exercise Apprendre:
 - Nous apprenons 👍
@@ -653,3 +652,5 @@ Par exemple:
 - Leurs enfants
 - Notre neveu
 - Mon beau-frère
+
+<!-- 👍👎çÇ -->
