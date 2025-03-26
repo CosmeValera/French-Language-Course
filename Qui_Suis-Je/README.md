@@ -711,3 +711,16 @@ Par exemple:
 
 <!-- 👍👎çÇ -->
 ## Conjugaison: Le verbe "comprendre"
+- Je comprends
+- Tu comprends
+- Il/elle comprend
+- Nous comprenons
+- Vous comprenez
+- Ils/elles comprennent
+
+**Examples:**
+- Je ne comprends pas. (I don't understand)
+- Je n'ai pas compris. (I didn't understand)
+- Excusez-moi, je ne comprends pas. (Sorry, I don't understand)
+- Vous pouvez répéter, s'il vous plaît? (Can you repeat, please?)
+- Vous comprenez l'anglais? (Do you understand English?)
