@@ -678,5 +678,36 @@ Par exemple:
 - Marc est mon cousin. Il est amusant👍
 - Laura est ma cousine. Elle est charmante 👍
 
-<!-- 👍👎çÇ -->
 ## Les pronoms toniques
+- Je -> Moi
+- Tu -> Toi
+- Il -> Lui
+- Elle -> Elle
+- Nous -> Nous
+- Vous -> Vous
+- Ils -> Eux
+- Elles -> Elles
+
+**Utilisation:**
+- Avec des prépositions: avec, pour, comme, chez
+  - Je mange avec **toi**
+  - C'est pour **moi** ?
+  - Tu fais comme **eux** ?
+  - David invite ses amis chez **lui**
+- Por marquer un contraste
+  - Michael est américain. **Moi**, je suis français.
+  - David est architecte. Marc, **lui**, est photographe
+  - Vous faites du football. **Nous**, nous faisons du basketball
+- Por les réponses sans verbes
+  - Qui est français? **Moi**!
+  - Qui aime le chocolat? **Nous**!
+- Examples (general):
+  - Nous sommes français, et **vous** ? Quelle est votre nationalité ?
+  - La fête est chez Marc et Sophie ? Oui, c'est chez **eux**
+  - C'est pour Steve ? oui, c'est pour **lui**
+  - Jane est anglaise mais Pam, **elle**, est australienne
+  - Le livre est à **toi** ? Oui, c'est mon livre.
+
+
+<!-- 👍👎çÇ -->
+## Conjugaison: Le verbe "comprendre"
