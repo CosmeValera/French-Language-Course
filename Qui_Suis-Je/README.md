@@ -709,7 +709,6 @@ Par exemple:
   - Le livre est à **toi** ? Oui, c'est mon livre.
 
 
-<!-- 👍👎çÇ -->
 ## Conjugaison: Le verbe "comprendre"
 - Je comprends
 - Tu comprends
@@ -724,3 +723,21 @@ Par exemple:
 - Excusez-moi, je ne comprends pas. (Sorry, I don't understand)
 - Vous pouvez répéter, s'il vous plaît? (Can you repeat, please?)
 - Vous comprenez l'anglais? (Do you understand English?)
+
+<!-- 👍👎çÇ -->
+**Exercise Verbes Irréguliers**
+
+Les verbes irréguliers sont: **Apprendre** (to learn), **comprendre** (to understand), **dire** (to say), **écrire** (to write), **savoir** (to know).
+
+- Pardon! Je ne comprends pas, vous pouvez répeter?  👍
+- À l'université, j'apprends le français 👍
+- Qu'est-ce que vous disez? Je ne comprends pas 👎 dites
+- Hugo est chef cuisinier. Il sait préparer la "crème brûlèe" 👍
+- Qu'est-ce que tu fais? - J'écris un message à mon frère 👍
+- Michel et Hugo sont honnêtes. Ils disent toujours la vérité 👍
+- Vous apprennez le français a l'école? 👎 apprenez
+- Anna ne parle pas français. Elle ne comprends pas  la question 👎 comprend
+- Pardon! Qu'est-ce que tu dis? 👍
+- Isabelle et Marie écris une lettre pour l'anniversaire de leur père 👎 écrivent
+
+6/10
